@@ -6,3 +6,7 @@
 ```
 String hello = "Hello World!"; 
 ```
+
+- [ ] Do something
+- [ ] Do another something
+- [x] Did this something 
